@@ -1,7 +1,7 @@
 {
   "parahumans": {
     "name": "Parahumans",
-    "url": "https://cdn.discordapp.com/attachments/447342120156659713/959985423021641738/parahumans-west.png",
+    "file": "parahumans.png",
     "x": 718,
     "y": 361,
     "color": [
@@ -11,8 +11,8 @@
     ]
   },
   "tokipona": {
-    "name": "Tokipona",
-    "url": "https://cdn.discordapp.com/attachments/447342120156659713/959985972660027492/tokipona-east.png",
+    "name": "Toki Pona",
+    "file": "toki-pona.png",
     "x": 740,
     "y": 331,
     "color": [
@@ -23,7 +23,7 @@
   },
   "parahumans_tokipona": {
     "name": "Parahumans + Toki Pona",
-    "url": "https://cdn.discordapp.com/attachments/447342120156659713/959980267026645032/parahumans-east-2.png",
+    "file": "parahumans-toki-pona.png",
     "x": 1670,
     "y": 213,
     "color": [
