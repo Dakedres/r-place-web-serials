@@ -31,5 +31,27 @@
       255,
       0
     ]
+  },
+  "web_serials": {
+    "name": "Web Serial Alliance",
+    "file": "web-serials.png",
+    "x": 1724,
+    "y": 1255,
+    "color": [
+      32,
+      72,
+      95
+    ]
+  },
+  "classic_rock": {
+    "name": "Classic Rock",
+    "file": "classic-rock.png",
+    "x": 1723,
+    "y": 1329,
+    "color": [
+      0,
+      0,
+      0
+    ]
   }
 }
